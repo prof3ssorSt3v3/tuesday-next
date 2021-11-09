@@ -1,0 +1,6 @@
+// /pages/notes/students
+//  /notes/students
+
+export default function Students() {
+  return <div>Students</div>;
+}
